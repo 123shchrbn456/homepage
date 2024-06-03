@@ -261,3 +261,11 @@ body {
 .additional-info__languages-item {
     color: var(--secondary-text-color);
 }
+
+.icon-links__container {
+    display: flex;
+}
+
+.single-icon {
+    margin-bottom: 20px;
+}
